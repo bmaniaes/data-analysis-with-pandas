@@ -1,6 +1,6 @@
 # data-analysis-with-pandas
 
-# Título do seu Projeto
+# Pandas Shortcuts
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![Python](https://img.shields.io/badge/python-3.9.1-blue.svg)
